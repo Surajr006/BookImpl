@@ -1,6 +1,6 @@
-package Main;
+package main;
 
-import Book.Book;
+import book.Book;
 
 public class BoolImpl {
     public static void main(String[] args) {
