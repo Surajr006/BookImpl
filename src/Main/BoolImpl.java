@@ -1,3 +1,7 @@
+package Main;
+
+import Book.Book;
+
 public class BoolImpl {
     public static void main(String[] args) {
     Book bk=new Book();
